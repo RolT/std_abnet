@@ -1,0 +1,3 @@
+[submodule "abnet"]
+	path = abnet
+	url = git@github.com:bootphon/abnet.git
